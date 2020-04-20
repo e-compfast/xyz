@@ -78,7 +78,7 @@ $(function() {
 		// numder of products per row (accepts 1, 2 or 3)
 		numColumns : 3,
 
-		// Google Spreadsheet ID
+		// Google Spreadsheet ID //
 		spreadsheetID : "1wQOM_Ssb-znv8fB9ejBQXghcWgh7JPNBaqE9hhV1Ii4"
 
 	});
