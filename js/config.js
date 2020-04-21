@@ -78,8 +78,8 @@ $(function() {
 		// numder of products per row (accepts 1, 2 or 3)
 		numColumns : 3,
 
-		// Google Spreadsheet ID //
-		spreadsheetID : "18tbo1vJEuwko2JCRz02kr5AjDUosvGkocRKU8gYiJRo"
+		// Google Spreadsheet ID //https://docs.google.com/spreadsheets/d/1fY9rigZE8JawBWU8RMyzd7wOnrgCROKpQE5UvKONLxU/edit?usp=drivesdk
+		spreadsheetID : "1fY9rigZE8JawBWU8RMyzd7wOnrgCROKpQE5UvKONLxU"
 
 	});
 
