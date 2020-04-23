@@ -76,7 +76,7 @@ $(function() {
 		brand : "SimpleStore Google Sheets Demo",
 
 		// numder of products per row (accepts 1, 2 or 3)
-		numColumns : 3,
+		numColumns : 5,
 
 		// Google Spreadsheet ID
 		spreadsheetID : "1fY9rigZE8JawBWU8RMyzd7wOnrgCROKpQE5UvKONLxU"
